@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-(https://github-readme-stats.vercel.app/api?username=aybikedalbul&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=aybikedalbul&show_icons=true&theme=radical)
+
 
 
 <!--
