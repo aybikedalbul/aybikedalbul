@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="auto">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aybikedalbul&show_icons=true&theme=radical)
 
