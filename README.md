@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+
+
 <!--
 **aybikedalbul/aybikedalbul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
