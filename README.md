@@ -1,4 +1,4 @@
-Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px">
+Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px" height="20px">
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=aybikedalbul&show_icons=true&theme=radical)
 
