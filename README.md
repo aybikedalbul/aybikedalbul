@@ -1,6 +1,6 @@
 
 <!-- Your title -->
-## Hi, I'm Aybike, a Developer 🚀 from Türkiye.
+## Hi, I'm Aybike, a Developer 🚀 from Turkiye.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
