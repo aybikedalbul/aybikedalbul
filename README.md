@@ -19,7 +19,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently internship on [Basarsoft](https://www.basarsoft.com.tr/);
-- 🌱 I’m currently learning Laravel and Java; 
+- 🌱 I’m currently learning Laravel and Node.js; 
  - 🤔 I’m looking for help with Design Pattern 😭;
 - 📫 How to reach me: aybikedalbul@hotmail.com;
 
