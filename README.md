@@ -2,11 +2,13 @@
 
 ###
 
-<p align="center">👋 Hey guys! I'm a college student full of projects and I'm here because I love coding and participating in hackathons! Me and my team placed 3rd in the Nasa Space App Hackathon, so I'm ready to uncover the mysteries of the universe! 🚀🚀<br> But it's not all about technology for me - sometimes I just need a little exercise.🏊 Swimming is my favorite way to release some stress! <br>I am also a bookworm. 📚 Are you the same? Then I warmly welcome you! Check out the projects on my Github profile, join me for a swim, or have a fun chat about a classic book!<br><br>💻 💪👻🎉👩‍💻</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<p align="left">👋 Hey guys! I'm a college student full of projects and I'm here because I love coding and participating in hackathons! Me and my team placed 3rd in the Nasa Space App Hackathon, so I'm ready to uncover the mysteries of the universe! 🚀🚀<br> But it's not all about technology for me - sometimes I just need a little exercise.🏊 Swimming is my favorite way to release some stress! <br>I am also a bookworm. 📚 Are you the same? Then I warmly welcome you! Check out the projects on my Github profile, join me for a swim, or have a fun chat about a classic book!<br><br>💻 💪👻🎉👩‍💻</p>
+
+
 
 ###
 
