@@ -4,8 +4,6 @@
 
 🚀 **Computer Engineer** | **Blockchain & FinTech Enthusiast**.
 
-🔐 Building secure systems at **Cladious**.  
-
 💻 Passionate about **web development** and **decentralized tech**.  
 
 🌐 **Tech Stack:** Solidity, Django, Java  
